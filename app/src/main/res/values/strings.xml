@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Laraproyecto</string>
+    <string name="y1">teso</string>
+    <string name="y2">Proyecto Primer Parcial</string>
+    <string name="y3">Ingenieria en Sistemas Computacionales</string>
+    <string name="y">tesoem</string>
+    <string name="y4">Introduccion a Dispositivos Moviles</string>
+    <string name="y5">Yoselin Lara Estrada</string>
+    <string name="y6">\"Dinosaurios\"</string>
+    <string name="y7">dinos</string>
+    <string name="y8">7S11</string>
+    <string name="y9">SIGUIENTE</string>
+    <string name="y10">MENU</string>
+    <string name="y11">Historia de los dinosaurios</string>
+    <string name="y12">La historia de los dinosaurios comenzó hace unos 230 millones de años, a mediados del período Triásico. Dinosaurio es una palabra de origen latino. El primero que propuso esta palabra fue el científico inglés, Sir Richard Owen, en 1841. Dinosaurio quiere decir \"Lagarto Terrible\", y esta denominación le viene porque Sir Richard los veía como unos grandes reptiles extintos, muy diferenciados dentro del reino animal.  Los dinosaurios son el resultado de un proceso de especialización del aparato locomotor, que les ha llevó de tener las extremidades extendidas hacia los lados (como los reptiles) a tenerlas por debajo del cuerpo. Esta proceso de especialización se inició con los tecodontes (reptiles antiguos).</string>
+    <string name="y13">dinoss</string>
+    <string name="y14">ANTERIOR</string>
+    <string name="y22">Los dinosaurios son el resultado de un proceso de especialización del aparato locomotor, que les ha llevó de tener las extremidades extendidas hacia los lados (como los reptiles) a tenerlas por debajo del cuerpo. Esta proceso de especialización se inició con los tecodontes (reptiles antiguos).</string>
+    <string name="y15">Dinosaurios Carnivoros</string>
+    <string name="l1">car</string>
+    <string name="l2">ANTERIOR</string>
+    <string name="Y17">DINOSAURIOS HERVIVOROS</string>
+    <string name="y123">DINOSURIOS HERBIVOROS</string>
+    <string name="yla">her</string>
+    <string name="y1223">ANTERIOR</string>
+    <string name="y45">DINOSAURIOS MARINOS</string>
+    <string name="y345">el</string>
+    <string name="y77">ANTERIOR</string>
+    <string name="y99">DINOSAURIOS OMNIVOROS</string>
+    <string name="y66">omn</string>
+    <string name="y3456">ANTERIOR</string>
+    <string name="Y12345">DINOSAURIOS VOLADORES</string>
+    <string name="l88">Sc</string>
+    <string name="e3">ANTERIOR</string>
+    <string name="Y1234567">SALIR</string>
+</resources>
